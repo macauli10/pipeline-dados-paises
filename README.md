@@ -2,15 +2,16 @@
 
 Este projeto demonstra a implementação de uma **arquitetura de medallion** (camadas **Bronze → Silver → Gold**) em um pipeline de engenharia de dados, aplicando boas práticas de ingestão, transformação e análise de dados.
 
-O objetivo é extrair dados públicos de uma **API de países (restcountries.com)**, tratar e organizar esses dados em camadas estruturadas, e por fim gerar agregações e visualizações para análises exploratórias.
+O objetivo é extrair dados públicos de uma **API de países** ([restcountries.com](https://restcountries.com/v3.1/all)), tratar e organizar esses dados em camadas estruturadas, e por fim gerar agregações e visualizações para análises exploratórias.
 
 ---
 
 ## 🏗️ Arquitetura de Camadas (Medalhões)
 
 ### 🟫 Camada Bronze — Raw / Bruta
-- 🔹 Extração direta da API [`https://restcountries.com/v3.1/all`](https://restcountries.com/v3.1/all)
-- 🔹 Dados salvos **sem modificação** no formato JSON
+
+- 🔹 Extração direta da API: [`https://restcountries.com/v3.1/all`](https://restcountries.com/v3.1/all)
+- 🔹 Dados salvos **sem modificação** no formato `.json`
 - 🔹 Exemplo de entrada:
 
 ```json
@@ -18,26 +19,27 @@ O objetivo é extrair dados públicos de uma **API de países (restcountries.com
   "capital": ["Beijing"],
   "languages": {"zho": "Chinese"}
 }
-```
 🪙 Camada Silver — Limpeza e Padronização
 🔹 Transformações aplicadas com Python e Pandas:
 
-Extração da capital (string)
+Extração da capital como string
 
 Conversão dos idiomas para lista
 
 Cálculo do número de idiomas
 
-🔹 Dados salvos em formato .parquet (colunar, otimizado)
+🔹 Dados salvos no formato .parquet (colunar, otimizado)
 
 🔹 Exemplo de saída:
-```json
+
+json
+Copy
+Edit
 {
   "capital": "Beijing",
   "languages": ["Chinese"],
   "num_languages": 1
 }
-```
 🥇 Camada Gold — Agregações e Insights
 🔹 Criação de duas visões analíticas:
 
@@ -73,26 +75,30 @@ Organização	venv, requirements.txt
 Engenharia	Arquitetura Bronze → Silver → Gold
 
 📁 Estrutura do Projeto
-pgsql
+plaintext
 Copy
 Edit
 pipeline-economia/
 ├── data/
-│   ├── bronze/    ← dados brutos extraídos da API
-│   ├── silver/    ← dados tratados e padronizados
-│   └── gold/      ← dados agregados prontos para análise
+│   ├── bronze/         ← dados brutos extraídos da API
+│   ├── silver/         ← dados tratados e padronizados
+│   └── gold/           ← dados agregados prontos para análise
 ├── scr/
-│   ├── extract.py     ← coleta dados da API
-│   ├── transform.py   ← trata e padroniza os dados
-│   ├── aggregate.py   ← realiza agregações analíticas
-│   └── streamlit.py         ← dashboard interativo (Streamlit)
+│   ├── extract.py      ← coleta dados da API
+│   ├── transform.py    ← trata e padroniza os dados
+│   ├── aggregate.py    ← realiza agregações analíticas
+│   └── app.py          ← dashboard interativo (Streamlit)
 ├── requirements.txt
 └── README.md
 📘 Aprendizados
-✔️ Compreensão prática da arquitetura de dados em camadas (medallion: Bronze, Silver, Gold)
+✔️ Compreensão prática da arquitetura de dados em camadas (Bronze → Silver → Gold)
+
 ✔️ Manipulação de dados estruturados e semiestruturados com Pandas
-✔️ Armazenamento eficiente com o formato Parquet
+
+✔️ Armazenamento eficiente com o formato .parquet
+
 ✔️ Construção de dashboards com Streamlit
+
 ✔️ Organização e modularização de pipelines de dados
 
 🚀 Próximos passos (ideias de melhoria)
@@ -104,21 +110,15 @@ Armazenar os dados em um Data Lake (ex: MinIO, S3)
 
 Adicionar testes e logs com logging
 
-Deploy com Streamlit Cloud ou servidor web
+Fazer deploy com Streamlit Cloud ou servidor web
 
 📎 Referências
-RestCountries API
+🌐 RestCountries API
 
-Pandas - Parquet
+📚 Pandas - Parquet Docs
 
-Arquitetura Medallion (Databricks)
+🧱 Arquitetura Medallion (Databricks)
 
-Streamlit Docs
+💻 Streamlit
 
 Desenvolvido por [Macauli Missouri] 💻
-
-yaml
-Copy
-Edit
-
----
