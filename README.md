@@ -19,6 +19,8 @@ O objetivo é extrair dados públicos de uma **API de países** ([restcountries.
   "capital": ["Beijing"],
   "languages": {"zho": "Chinese"}
 }
+```
+
 🪙 Camada Silver — Limpeza e Padronização
 🔹 Transformações aplicadas com Python e Pandas:
 
@@ -32,14 +34,14 @@ Cálculo do número de idiomas
 
 🔹 Exemplo de saída:
 
-json
-Copy
-Edit
+```json
 {
   "capital": "Beijing",
   "languages": ["Chinese"],
   "num_languages": 1
 }
+```
+
 🥇 Camada Gold — Agregações e Insights
 🔹 Criação de duas visões analíticas:
 
