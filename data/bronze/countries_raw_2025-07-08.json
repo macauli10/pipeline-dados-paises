@@ -1,0 +1,1702 @@
+[
+  {
+    "capital": [
+      "Santo Domingo"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Georgetown"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Oslo"
+    ],
+    "languages": {
+      "nno": "Norwegian Nynorsk",
+      "nob": "Norwegian Bokmål",
+      "smi": "Sami"
+    }
+  },
+  {
+    "capital": [
+      "Abu Dhabi"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Baku"
+    ],
+    "languages": {
+      "aze": "Azerbaijani"
+    }
+  },
+  {
+    "capital": [
+      "Tallinn"
+    ],
+    "languages": {
+      "est": "Estonian"
+    }
+  },
+  {
+    "capital": [
+      "Bissau"
+    ],
+    "languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    }
+  },
+  {
+    "capital": [
+      "Luanda"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "capital": [
+      "Bandar Seri Begawan"
+    ],
+    "languages": {
+      "msa": "Malay"
+    }
+  },
+  {
+    "capital": [
+      "Rome"
+    ],
+    "languages": {
+      "ita": "Italian",
+      "cat": "Catalan"
+    }
+  },
+  {
+    "capital": [
+      "Prague"
+    ],
+    "languages": {
+      "ces": "Czech",
+      "slk": "Slovak"
+    }
+  },
+  {
+    "capital": [
+      "Managua"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Pyongyang"
+    ],
+    "languages": {
+      "kor": "Korean"
+    }
+  },
+  {
+    "capital": [
+      "Damascus"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Manama"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Tirana"
+    ],
+    "languages": {
+      "sqi": "Albanian"
+    }
+  },
+  {
+    "capital": [
+      "South Tarawa"
+    ],
+    "languages": {
+      "eng": "English",
+      "gil": "Gilbertese"
+    }
+  },
+  {
+    "capital": [
+      "Maputo"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "capital": [
+      "Manila"
+    ],
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    }
+  },
+  {
+    "capital": [
+      "Vilnius"
+    ],
+    "languages": {
+      "lit": "Lithuanian"
+    }
+  },
+  {
+    "capital": [
+      "Bogotá"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Victoria"
+    ],
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Sucre"
+    ],
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Valletta"
+    ],
+    "languages": {
+      "eng": "English",
+      "mlt": "Maltese"
+    }
+  },
+  {
+    "capital": [
+      "Athens"
+    ],
+    "languages": {
+      "ell": "Greek"
+    }
+  },
+  {
+    "capital": [
+      "Castries"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Astana"
+    ],
+    "languages": {
+      "kaz": "Kazakh",
+      "rus": "Russian"
+    }
+  },
+  {
+    "capital": [
+      "Sarajevo"
+    ],
+    "languages": {
+      "bos": "Bosnian",
+      "hrv": "Croatian",
+      "srp": "Serbian"
+    }
+  },
+  {
+    "capital": [
+      "Suva"
+    ],
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    }
+  },
+  {
+    "capital": [
+      "Podgorica"
+    ],
+    "languages": {
+      "cnr": "Montenegrin"
+    }
+  },
+  {
+    "capital": [
+      "Riyadh"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Mbabane"
+    ],
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    }
+  },
+  {
+    "capital": [
+      "Moroni"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    }
+  },
+  {
+    "capital": [
+      "Guatemala City"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Ngerulmud"
+    ],
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    }
+  },
+  {
+    "capital": [
+      "London"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Copenhagen"
+    ],
+    "languages": {
+      "dan": "Danish"
+    }
+  },
+  {
+    "capital": [
+      "Djibouti"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Jerusalem"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "heb": "Hebrew"
+    }
+  },
+  {
+    "capital": [
+      "Ashgabat"
+    ],
+    "languages": {
+      "rus": "Russian",
+      "tuk": "Turkmen"
+    }
+  },
+  {
+    "capital": [
+      "Palikir"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Kyiv"
+    ],
+    "languages": {
+      "ukr": "Ukrainian"
+    }
+  },
+  {
+    "capital": [
+      "Honiara"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Tegucigalpa"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Dushanbe"
+    ],
+    "languages": {
+      "rus": "Russian",
+      "tgk": "Tajik"
+    }
+  },
+  {
+    "capital": [
+      "Baghdad"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "arc": "Aramaic",
+      "ckb": "Sorani"
+    }
+  },
+  {
+    "capital": [
+      "Kampala"
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "capital": [
+      "Moscow"
+    ],
+    "languages": {
+      "rus": "Russian"
+    }
+  },
+  {
+    "capital": [
+      "Harare"
+    ],
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    }
+  },
+  {
+    "capital": [
+      "Khartoum"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Port-au-Prince"
+    ],
+    "languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    }
+  },
+  {
+    "capital": [
+      "Stockholm"
+    ],
+    "languages": {
+      "swe": "Swedish"
+    }
+  },
+  {
+    "capital": [
+      "Vientiane"
+    ],
+    "languages": {
+      "lao": "Lao"
+    }
+  },
+  {
+    "capital": [
+      "Andorra la Vella"
+    ],
+    "languages": {
+      "cat": "Catalan"
+    }
+  },
+  {
+    "capital": [
+      "Ankara"
+    ],
+    "languages": {
+      "tur": "Turkish"
+    }
+  },
+  {
+    "capital": [
+      "Maseru"
+    ],
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    }
+  },
+  {
+    "capital": [
+      "Bratislava"
+    ],
+    "languages": {
+      "slk": "Slovak"
+    }
+  },
+  {
+    "capital": [
+      "Accra"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Helsinki"
+    ],
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    }
+  },
+  {
+    "capital": [
+      "Rabat"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    }
+  },
+  {
+    "capital": [
+      "Niamey"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Montevideo"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Santiago"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Bridgetown"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Phnom Penh"
+    ],
+    "languages": {
+      "khm": "Khmer"
+    }
+  },
+  {
+    "capital": [
+      "Ouagadougou"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Kigali"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    }
+  },
+  {
+    "capital": [
+      "Port of Spain"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "São Tomé"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "capital": [
+      "Dhaka"
+    ],
+    "languages": {
+      "ben": "Bengali"
+    }
+  },
+  {
+    "capital": [
+      "New Delhi"
+    ],
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "capital": [
+      "Brazzaville"
+    ],
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    }
+  },
+  {
+    "capital": [
+      "Muscat"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Asunción"
+    ],
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Lomé"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Sofia"
+    ],
+    "languages": {
+      "bul": "Bulgarian"
+    }
+  },
+  {
+    "capital": [
+      "San Salvador"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Gaborone"
+    ],
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    }
+  },
+  {
+    "capital": [
+      "Lisbon"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "capital": [
+      "Caracas"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Paris"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Port Moresby"
+    ],
+    "languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    }
+  },
+  {
+    "capital": [
+      "Chișinău"
+    ],
+    "languages": {
+      "ron": "Romanian"
+    }
+  },
+  {
+    "capital": [
+      "Yamoussoukro"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Brasília"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "capital": [
+      "Beirut"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Sana'a"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Banjul"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Addis Ababa"
+    ],
+    "languages": {
+      "amh": "Amharic"
+    }
+  },
+  {
+    "capital": [
+      "Sri Jayawardenepura Kotte"
+    ],
+    "languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "capital": [
+      "Yaoundé"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Bangui"
+    ],
+    "languages": {
+      "fra": "French",
+      "sag": "Sango"
+    }
+  },
+  {
+    "capital": [
+      "Algiers"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Monaco"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Yerevan"
+    ],
+    "languages": {
+      "hye": "Armenian"
+    }
+  },
+  {
+    "capital": [
+      "Bern"
+    ],
+    "languages": {
+      "fra": "French",
+      "gsw": "Swiss German",
+      "ita": "Italian",
+      "roh": "Romansh"
+    }
+  },
+  {
+    "capital": [
+      "Lima"
+    ],
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Tehran"
+    ],
+    "languages": {
+      "fas": "Persian (Farsi)"
+    }
+  },
+  {
+    "capital": [
+      "Dakar"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Kingstown"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Lusaka"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Mogadishu"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    }
+  },
+  {
+    "capital": [
+      "Vienna"
+    ],
+    "languages": {
+      "deu": "German"
+    }
+  },
+  {
+    "capital": [
+      "Nuku'alofa"
+    ],
+    "languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    }
+  },
+  {
+    "capital": [
+      "Praia"
+    ],
+    "languages": {
+      "por": "Portuguese"
+    }
+  },
+  {
+    "capital": [
+      "Bangkok"
+    ],
+    "languages": {
+      "tha": "Thai"
+    }
+  },
+  {
+    "capital": [
+      "Dili"
+    ],
+    "languages": {
+      "por": "Portuguese",
+      "tet": "Tetum"
+    }
+  },
+  {
+    "capital": [
+      "Pretoria",
+      "Bloemfontein",
+      "Cape Town"
+    ],
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    }
+  },
+  {
+    "capital": [
+      "Malabo"
+    ],
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Porto-Novo"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Lilongwe"
+    ],
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    }
+  },
+  {
+    "capital": [
+      "Canberra"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Kingston"
+    ],
+    "languages": {
+      "eng": "English",
+      "jam": "Jamaican Patois"
+    }
+  },
+  {
+    "capital": [
+      "N'Djamena"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Naypyidaw"
+    ],
+    "languages": {
+      "mya": "Burmese"
+    }
+  },
+  {
+    "capital": [
+      "Abuja"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Nouakchott"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Quito"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Port Louis"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    }
+  },
+  {
+    "capital": [
+      "Wellington"
+    ],
+    "languages": {
+      "eng": "English",
+      "mri": "Māori",
+      "nzs": "New Zealand Sign Language"
+    }
+  },
+  {
+    "capital": [
+      "Buenos Aires"
+    ],
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "San José"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Skopje"
+    ],
+    "languages": {
+      "mkd": "Macedonian"
+    }
+  },
+  {
+    "capital": [
+      "Majuro"
+    ],
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    }
+  },
+  {
+    "capital": [
+      "Bamako"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Belmopan"
+    ],
+    "languages": {
+      "bjz": "Belizean Creole",
+      "eng": "English",
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Nairobi"
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "capital": [
+      "Amman"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Antananarivo"
+    ],
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    }
+  },
+  {
+    "capital": [
+      "Vatican City"
+    ],
+    "languages": {
+      "ita": "Italian",
+      "lat": "Latin"
+    }
+  },
+  {
+    "capital": [
+      "Jakarta"
+    ],
+    "languages": {
+      "ind": "Indonesian"
+    }
+  },
+  {
+    "capital": [
+      "Reykjavik"
+    ],
+    "languages": {
+      "isl": "Icelandic"
+    }
+  },
+  {
+    "capital": [
+      "Singapore"
+    ],
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese",
+      "msa": "Malay",
+      "tam": "Tamil"
+    }
+  },
+  {
+    "capital": [
+      "Kuala Lumpur"
+    ],
+    "languages": {
+      "eng": "English",
+      "msa": "Malay"
+    }
+  },
+  {
+    "capital": [
+      "Mexico City"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Windhoek"
+    ],
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    }
+  },
+  {
+    "capital": [
+      "Kabul"
+    ],
+    "languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    }
+  },
+  {
+    "capital": [
+      "Minsk"
+    ],
+    "languages": {
+      "bel": "Belarusian",
+      "rus": "Russian"
+    }
+  },
+  {
+    "capital": [
+      "Dodoma"
+    ],
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "capital": [
+      "Tbilisi"
+    ],
+    "languages": {
+      "kat": "Georgian"
+    }
+  },
+  {
+    "capital": [
+      "Zagreb"
+    ],
+    "languages": {
+      "hrv": "Croatian"
+    }
+  },
+  {
+    "capital": [
+      "Islamabad"
+    ],
+    "languages": {
+      "eng": "English",
+      "urd": "Urdu"
+    }
+  },
+  {
+    "capital": [
+      "Kuwait City"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Madrid"
+    ],
+    "languages": {
+      "spa": "Spanish",
+      "cat": "Catalan",
+      "eus": "Basque",
+      "glc": "Galician"
+    }
+  },
+  {
+    "capital": [
+      "Vaduz"
+    ],
+    "languages": {
+      "deu": "German"
+    }
+  },
+  {
+    "capital": [
+      "Panama City"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Saint John's"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Tokyo"
+    ],
+    "languages": {
+      "jpn": "Japanese"
+    }
+  },
+  {
+    "capital": [
+      "Kinshasa"
+    ],
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
+    }
+  },
+  {
+    "capital": [
+      "Beijing"
+    ],
+    "languages": {
+      "zho": "Chinese"
+    }
+  },
+  {
+    "capital": [
+      "Tripoli"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Bucharest"
+    ],
+    "languages": {
+      "ron": "Romanian"
+    }
+  },
+  {
+    "capital": [
+      "Dublin"
+    ],
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    }
+  },
+  {
+    "capital": [
+      "Cairo"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Hanoi"
+    ],
+    "languages": {
+      "vie": "Vietnamese"
+    }
+  },
+  {
+    "capital": [
+      "Riga"
+    ],
+    "languages": {
+      "lav": "Latvian"
+    }
+  },
+  {
+    "capital": [
+      "Tunis"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Berlin"
+    ],
+    "languages": {
+      "deu": "German"
+    }
+  },
+  {
+    "capital": [
+      "Apia"
+    ],
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    }
+  },
+  {
+    "capital": [
+      "Ulan Bator"
+    ],
+    "languages": {
+      "mon": "Mongolian"
+    }
+  },
+  {
+    "capital": [
+      "Doha"
+    ],
+    "languages": {
+      "ara": "Arabic"
+    }
+  },
+  {
+    "capital": [
+      "Havana"
+    ],
+    "languages": {
+      "spa": "Spanish"
+    }
+  },
+  {
+    "capital": [
+      "Washington, D.C."
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Conakry"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Nassau"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Ljubljana"
+    ],
+    "languages": {
+      "slv": "Slovene"
+    }
+  },
+  {
+    "capital": [
+      "Seoul"
+    ],
+    "languages": {
+      "kor": "Korean"
+    }
+  },
+  {
+    "capital": [
+      "Pristina"
+    ],
+    "languages": {
+      "sqi": "Albanian",
+      "srp": "Serbian"
+    }
+  },
+  {
+    "capital": [
+      "Ottawa"
+    ],
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Juba"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Paramaribo"
+    ],
+    "languages": {
+      "nld": "Dutch"
+    }
+  },
+  {
+    "capital": [
+      "Budapest"
+    ],
+    "languages": {
+      "hun": "Hungarian"
+    }
+  },
+  {
+    "capital": [
+      "Roseau"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Kathmandu"
+    ],
+    "languages": {
+      "nep": "Nepali"
+    }
+  },
+  {
+    "capital": [
+      "Libreville"
+    ],
+    "languages": {
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Brussels"
+    ],
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    }
+  },
+  {
+    "capital": [
+      "Monrovia"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Thimphu"
+    ],
+    "languages": {
+      "dzo": "Dzongkha"
+    }
+  },
+  {
+    "capital": [
+      "Freetown"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Amsterdam"
+    ],
+    "languages": {
+      "nld": "Dutch"
+    }
+  },
+  {
+    "capital": [
+      "Asmara"
+    ],
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    }
+  },
+  {
+    "capital": [
+      "Malé"
+    ],
+    "languages": {
+      "div": "Maldivian"
+    }
+  },
+  {
+    "capital": [
+      "Luxembourg"
+    ],
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ltz": "Luxembourgish"
+    }
+  },
+  {
+    "capital": [
+      "Yaren"
+    ],
+    "languages": {
+      "eng": "English",
+      "nau": "Nauru"
+    }
+  },
+  {
+    "capital": [
+      "City of San Marino"
+    ],
+    "languages": {
+      "ita": "Italian"
+    }
+  },
+  {
+    "capital": [
+      "Basseterre"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Port Vila"
+    ],
+    "languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    }
+  },
+  {
+    "capital": [
+      "Nicosia"
+    ],
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    }
+  },
+  {
+    "capital": [
+      "Belgrade"
+    ],
+    "languages": {
+      "srp": "Serbian"
+    }
+  },
+  {
+    "capital": [
+      "Gitega"
+    ],
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    }
+  },
+  {
+    "capital": [
+      "St. George's"
+    ],
+    "languages": {
+      "eng": "English"
+    }
+  },
+  {
+    "capital": [
+      "Funafuti"
+    ],
+    "languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    }
+  },
+  {
+    "capital": [
+      "Tashkent"
+    ],
+    "languages": {
+      "rus": "Russian",
+      "uzb": "Uzbek"
+    }
+  },
+  {
+    "capital": [
+      "Bishkek"
+    ],
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    }
+  },
+  {
+    "capital": [
+      "Warsaw"
+    ],
+    "languages": {
+      "pol": "Polish"
+    }
+  }
+]
