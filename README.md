@@ -77,9 +77,7 @@ Organização	venv, requirements.txt
 Engenharia	Arquitetura Bronze → Silver → Gold
 
 📁 Estrutura do Projeto
-plaintext
-Copy
-Edit
+```plaintext
 pipeline-economia/
 ├── data/
 │   ├── bronze/         ← dados brutos extraídos da API
@@ -92,6 +90,7 @@ pipeline-economia/
 │   └── app.py          ← dashboard interativo (Streamlit)
 ├── requirements.txt
 └── README.md
+```
 📘 Aprendizados
 ✔️ Compreensão prática da arquitetura de dados em camadas (Bronze → Silver → Gold)
 
