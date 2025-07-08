@@ -13,7 +13,7 @@ O objetivo é extrair dados públicos de uma **API de países (restcountries.com
 - 🔹 Dados salvos **sem modificação** no formato JSON
 - 🔹 Exemplo de entrada:
 
-```json
+
 {
   "capital": ["Beijing"],
   "languages": {"zho": "Chinese"}
