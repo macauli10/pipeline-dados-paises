@@ -31,15 +31,13 @@ Cálculo do número de idiomas
 🔹 Dados salvos em formato .parquet (colunar, otimizado)
 
 🔹 Exemplo de saída:
-
-json
-Copy
-Edit
+```json
 {
   "capital": "Beijing",
   "languages": ["Chinese"],
   "num_languages": 1
 }
+```
 🥇 Camada Gold — Agregações e Insights
 🔹 Criação de duas visões analíticas:
 
